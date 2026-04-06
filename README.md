@@ -1,12 +1,52 @@
-Power BI Projects 
+# 📊 Power BI Projects Portfolio
 
-Developed a collection of real-world Power BI dashboards across multiple domains, including:
+A collection of real-world **Power BI dashboards** built across multiple domains, showcasing data modeling, DAX, and visualization expertise.
 
-**Sales Analysis** – Revenue trends, KPIs, and performance insights
-**CRM Insights** – Customer behavior, segmentation, and retention analysis
-**E-commerce Analytics** – Order patterns, product performance, and conversion tracking
-**ESG Metrics** – Environmental, Social, and Governance reporting dashboards
-**Project Management** – Task tracking, resource utilization, and project KPIs
-**Sports Analytics** – Team and player performance analysis
+---
 
-Additionally, worked extensively with **Insurance domain data**, building dashboards for policy analysis, claims tracking, and risk assessment.
+## 🚀 Projects Included
+
+### 📈 Sales Analysis
+- Revenue trends and growth analysis  
+- KPI tracking and performance insights  
+
+### 👥 CRM Insights
+- Customer segmentation  
+- Behavior and retention analysis  
+
+### 🛒 E-Commerce Analytics
+- Order patterns and sales trends  
+- Product performance and conversion tracking  
+
+### 🌱 ESG Metrics
+- Environmental, Social, and Governance reporting  
+- Sustainability performance dashboards  
+
+### 📊 Project Management Dashboard
+- Task tracking and milestone analysis  
+- Resource utilization and project KPIs  
+
+### 🏏 Sports Analytics (Kabaddi)
+- Player performance analysis  
+- Team insights and match statistics  
+
+### 🏥 Insurance & Beneficiary Reports
+- Policy analysis and claims tracking  
+- Risk assessment and beneficiary insights  
+
+---
+
+## 🛠 Tools & Technologies
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Power Query (ETL)  
+- Data Modeling  
+
+---
+
+## 📸 Report Preview
+👉 *(Add screenshots or PDF links here for better visibility)*
+
+Example:
+```markdown
+[View Kabaddi Report](./Kabaddi.pdf)
